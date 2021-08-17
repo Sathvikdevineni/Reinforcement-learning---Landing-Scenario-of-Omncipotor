@@ -1,1 +1,1 @@
-# Reinforcement-learning---Landing-Scenario
+# Reinforcement-learning---Landing-Scenario of Omnicoptor
